@@ -1,0 +1,26 @@
+{
+  "name": "tech_corner_blog",
+  "version": "1.0.0",
+  "description": "This is a Node JS + MongoDB mini-project exploring the CRUD operations through implementing a blog web page.",
+  "main": "app.js",
+  "scripts": {
+    "startDev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjiteshMahalingam/Tech_Corner_Blog.git"
+  },
+  "author": "Ajitesh M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjiteshMahalingam/Tech_Corner_Blog/issues"
+  },
+  "homepage": "https://github.com/AjiteshMahalingam/Tech_Corner_Blog#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "marked": "^2.1.1",
+    "mongoose": "^5.12.14",
+    "slugify": "^1.5.3"
+  }
+}
