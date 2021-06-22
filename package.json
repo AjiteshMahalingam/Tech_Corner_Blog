@@ -17,9 +17,12 @@
   },
   "homepage": "https://github.com/AjiteshMahalingam/Tech_Corner_Blog#readme",
   "dependencies": {
+    "dompurify": "^2.2.9",
     "ejs": "^3.1.6",
     "express": "^4.17.1",
+    "jsdom": "^16.6.0",
     "marked": "^2.1.1",
+    "method-override": "^3.0.0",
     "mongoose": "^5.12.14",
     "slugify": "^1.5.3"
   }
